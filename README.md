@@ -1,3 +1,4 @@
+To run the app: https://arvis00.github.io/Password_generator/
 
 Password generator app generates a Password for a given service. On submit this app has to take in two inputs, generate password according the “sequence” and output this for user to the screen.
 Sequence for generated password:
